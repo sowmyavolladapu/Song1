@@ -1,0 +1,3 @@
+Git is a fast and efficient tool for
+ managing small to large projects
+ with branching, staging, and workflows.
